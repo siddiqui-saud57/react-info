@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header{
+  padding-bottom: 20px;
+
+}
+
+.pagination {
+  padding-left: 27% !important;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex > div {
+  text-align: center;
+  margin: 0 1rem 2rem 1rem;
+}
+
+img {
+  display: inline-block;
+  max-width: 100%;
+}
